@@ -24,6 +24,8 @@ class ViewController: UIViewController {
     }
     
     @IBAction func buttonAskPressed(_ sender: UIButton) {
-        imageSetView.image = magicImageBalls[Int.random(in: 0...4)]
+        let imageRandom = Int.random(in: 0...4);
+        
+        imageSetView.image = magicImageBalls[imageRandom];
     }
 }
