@@ -7,8 +7,7 @@ This project is an app to solve a course challenge (iOS App Developer with only 
 This small project was created using a storyboard. Its goal, is to have a ball in the center to show random images with a click of a button.
 
 <div align="center"> 
-  <img src= "./Public/images/dark_back.gif" height:"500">
-  <img src= "./Public/images/white_back.gif" height:"500">
+  <img src= "./Public/images/magic_ball.gif" height:"500">
 </div>
 
 <div align="center"> 
